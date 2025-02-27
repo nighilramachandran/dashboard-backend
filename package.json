@@ -11,11 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "config": "^3.3.12",
+    "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "helmet": "^8.0.0",
     "joi": "^17.13.3",
     "lodash": "^4.17.21",
     "morgan": "^1.10.0",
+    "nodemon": "^3.1.9",
     "oracledb": "^6.8.0",
     "winston": "^3.17.0"
   }
